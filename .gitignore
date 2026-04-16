@@ -1,0 +1,26 @@
+﻿# Compilados
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Maven
+dependency-reduced-pom.xml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pasta antiga (se ainda existir)
+java/
