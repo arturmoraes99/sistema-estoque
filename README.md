@@ -1,5 +1,5 @@
 @"
-# 📦 Sistema de Controle de Estoque v2.0
+# 📦 Sistema de Controle de Estoque 
 
 Sistema desktop para gerenciamento de estoque desenvolvido em Java com interface gráfica moderna.
 
